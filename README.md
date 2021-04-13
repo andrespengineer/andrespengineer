@@ -1,16 +1,19 @@
-### Hi there 👋
+
 
 <!--
-**andrespengineer/andrespengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andrespengineer/andrespengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Hello, folks! 
 
-Here are some ideas to get you started:
+My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Native Android development. I'm from Dominican Republic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+
+- 🌱 I’m currently learning everything related to native android development.
+- 💬 Ask me about Android development issues. 
+- 📫 How to reach me: andrespengineer@gmail.com | Stackoverflow: [Andrespengineer](https://es.stackoverflow.com/users/38154/andrespengineer) Linkedin: [Linkedin](https://www.linkedin.com/in/andrespengineer)
+- 😄 Pronouns: ZenzukyLzC on PS4
+- ⚡ Fun fact: my favorite food is italian. I love play videogames and solve algorithms.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer)](https://github.com/anuraghazra/github-readme-stats)
+
+
