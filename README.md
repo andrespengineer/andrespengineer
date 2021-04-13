@@ -14,6 +14,19 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 - 😄 Pronouns: ZenzukyLzC on PS4
 - ⚡ Fun fact: my favorite food is italian. I love play videogames and solve algorithms.
 
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=Go&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=033963)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Dart&logoColor=white&color=033963)
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer)](https://github.com/anuraghazra/github-readme-stats)
 
 
