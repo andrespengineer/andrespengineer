@@ -24,9 +24,7 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Dart&logoColor=white&color=033963)
 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrespengineer&repo=android-samples&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer&layout=compact&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
