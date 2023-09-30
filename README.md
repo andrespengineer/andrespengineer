@@ -14,7 +14,6 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 - ⚡ Fun fact: my favorite food is italian.
 - LeetCode: [Andrespengineer](https://leetcode.com/andrespengineer).
 - Hackerrank: [Andrespengineer](https://www.hackerrank.com/andrespengineer)
-- Codeforces: [Andrespengineer](http://codeforces.com/profile/andrespengineer)
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=033963)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=033963)
