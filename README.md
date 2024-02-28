@@ -8,7 +8,7 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 
 # About me
 
-- 🌱 I’m currently learning everything related to native android development.
+- 🌱 I love Android.
 - 💬 Ask me about Android development issues. 
 - 📫 How to reach me: andrespengineer@gmail.com | Stackoverflow: [Andrespengineer](https://es.stackoverflow.com/users/38154/andrespengineer) Linkedin: [Linkedin](https://www.linkedin.com/in/andrespengineer)
 - ⚡ Fun fact: my favorite food is italian.
@@ -23,7 +23,6 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Dart&logoColor=white&color=033963)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrespengineer&repo=android-samples&theme=vue)](https://github.com/andrespengineer/android-samples)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer&layout=compact&langs_count=8&theme=vue)](https://github.com/andrespengineer)
 
 
