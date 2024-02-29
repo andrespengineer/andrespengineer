@@ -10,8 +10,8 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 
 - 🌱 I love Android.
 - 💬 Ask me about Android development issues. 
-- 📫 How to reach me: andrespengineer@gmail.com | Stackoverflow: [Andrespengineer](https://es.stackoverflow.com/users/38154/andrespengineer) Linkedin: [Linkedin](https://www.linkedin.com/in/andrespengineer)
-- ⚡ Fun fact: my favorite food is italian.
+- 📫 How to reach me: andrespengineer@gmail.com | Linkedin: [Linkedin](https://www.linkedin.com/in/andrespengineer)
+- ⚡ Fun fact: I'm a foodie. I love italian food.
 - LeetCode: [Andrespengineer](https://leetcode.com/andrespengineer).
 - Hackerrank: [Andrespengineer](https://www.hackerrank.com/andrespengineer)
 
@@ -22,7 +22,7 @@ My name is <b>Andres Sierra</b>, I'm a <b>Software Engineer</b> focused on Nativ
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=033963)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Dart&logoColor=white&color=033963)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrespengineer&repo=Compose-2024&theme=vue)](https://github.com/andrespengineer/Compose-2024)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer&layout=compact&langs_count=8&theme=vue)](https://github.com/andrespengineer)
 
 
