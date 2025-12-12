@@ -5,7 +5,7 @@ I'm a Software Engineer with 8+ years of experience creating reliable products, 
 Curious by nature, detail-oriented by habit, and always working on something new.
 
 ### 🧩 What I do
-- Android UI/UX · Jetpack Compose · Scalable Arhcitecture · Adaptive and Large screens experiences
+- Android UI/UX · Jetpack Compose · Scalable Architecture · Adaptive and Large screens experiences
 - Backend engineering, async architectures, and microservices  
 - Performance tuning, and improve rendering work  
 - End-to-end system design: from the API layer to the final UI polish
