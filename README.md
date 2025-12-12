@@ -33,7 +33,7 @@ Curious by nature, detail-oriented by habit, and always working on something new
 ---
 
 ### 📂 Featured Work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrespengineer&repo=stream-compose&theme=vue)](https://github.com/andrespengineer/stream-compose)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrespengineer&repo=stream-compose&theme=vue&update=1)](https://github.com/andrespengineer/stream-compose)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespengineer&layout=compact&langs_count=8&theme=vue)](https://github.com/andrespengineer)
 
